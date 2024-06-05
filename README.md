@@ -1,4 +1,4 @@
-Specializations Recommendation System for Laguna State Polytechnic University - College of Computer Studies
+**Specializations Recommendation System for Laguna State Polytechnic University - College of Computer Studies**
 
 Project Overview
 The Specializations Recommendation System is designed to assist incoming third-year Information Technology students at Laguna State Polytechnic University - San Pablo City Campus in selecting a suitable specialization. 
